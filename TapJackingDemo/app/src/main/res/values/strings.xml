@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TapJackingDemo</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="strStart">Start</string>
+    <string name="strStop">Stop</string>
+    <string name="strLeftOffset">Horizontal Offset</string>
+    <string name="strTopOffset">Vertical Offset</string>
+    <string name="strRepetionRate">Repetition Rate (s)</string>
+    <string name="overlay_message">some message</string>
+</resources>
